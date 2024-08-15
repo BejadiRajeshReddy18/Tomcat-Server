@@ -200,6 +200,4 @@ These commands will control the Tomcat server's operation.
 
 This project is licensed under the Apache License, Version 2.0. See the [LICENSE](https://www.apache.org/licenses/LICENSE-2.0) file for more details.
 
-#   T o m c a t - S e r v e r 
- 
- 
+#
